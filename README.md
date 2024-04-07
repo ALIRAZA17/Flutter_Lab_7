@@ -1,3 +1,2 @@
-# lab7
-
+# MAD lab7
 A new Flutter project.
